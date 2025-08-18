@@ -1,5 +1,5 @@
 # alien_invasion
-Alien invasion is a simple alien invasion spaceship shooting game
+[Alien invasion](https://github.com/Artifexaz/alien_invasion) is a simple alien invasion spaceship shooting game
 - Open-up interface
 ![Openup_interface](https://github.com/user-attachments/assets/22ffbae3-1671-4e35-90db-8736d5b2ace9)
 - In-game shooting
